@@ -1,2 +1,4 @@
 # udemy-react-complete-guide-assigments
-React Complete Guide Assigments code
+My solutions to the React Complete Guide Udemy course Assigments
+
+[Link to the udemy course](https://udemy.com/course/react-the-complete-guide-incl-redux/)
